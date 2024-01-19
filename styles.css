@@ -1,0 +1,28 @@
+body {
+    font-style: italic;
+    margin: 10px;
+    background-color: blueviolet;
+}
+
+header, main, nav {
+    margin: 10px;
+    border: 5px ridge rgb(0, 0, 0);
+}
+
+footer{
+    margin: 5px;
+    padding: 5px;
+    border: 5px rgb(180, 9, 172);
+    color: brown;
+}
+
+main section {
+    margin: 15px;
+    border: solid;
+    border-color: black;
+    color: bisque;
+}
+
+nav a {
+    color: blue;
+}
